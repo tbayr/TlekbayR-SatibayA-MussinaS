@@ -1,0 +1,92 @@
+body{
+  font-family: Montserrat;
+}
+
+#title{
+  background-color: #9281b5;
+  padding: 2rem;
+}
+
+.container-fluid{
+  padding: 2% 9%;
+}
+
+h3{
+  padding: 20px 0 0 0;
+}
+
+h4{
+  text-align: center;
+  font-weight: bold;
+  line-height: 1.8;
+}
+
+.h4-features{
+  text-align: left;
+}
+
+.navbar{
+  padding:  0 0 2rem 0;
+}
+
+.navbar-brand{
+  font-weight: bold;
+  font-size: 160%;
+}
+
+.nav-item{
+  padding: 0 2px;
+}
+
+.card{
+  text-align: center;
+  border-radius: 10%;
+}
+
+.slogan{
+  font-weight: bold;
+  font-family: Dosis;
+  text-align: right;
+  color: #fff;
+}
+
+.notification{
+  text-align: right;
+}
+
+
+#testimonials{
+  padding: 2rem;
+  text-align: center;
+  background-color: #dbcdf7;
+}
+
+.carousel-item{
+  height: 400px;
+}
+
+.img-besties{
+  width: 180px;
+  border-radius: 30%;
+  padding: 2rem 0;
+}
+
+
+#feature{
+  padding: 2rem;
+  background-color: #9281b5;
+}
+
+.feature-rt{
+  text-align: center;
+  padding: 10%;
+}
+
+.icon{
+  margin-bottom: 1rem;
+  color:#000;
+}
+
+.icon:hover{
+  color: #fff;
+}
